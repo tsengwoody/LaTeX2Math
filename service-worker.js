@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/app/LaTeX2Math/precache-manifest.8980fc8e9c8d236f37798f7b87821dc8.js"
+  "/LaTeX2Math/precache-manifest.603da4506f36216c1cbf70b9376c55fc.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "latex2math"});
